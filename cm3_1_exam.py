@@ -33,6 +33,22 @@ num2 = float(input("\nEnter second number: "))
 
 if choice == '1':
     # your code here
+	print(f"\nResult: {num1} + {num2} = {num1 + num2}")
+
+elif choice == '2':
+    print(f"\nResult: {num1} - {num2} = {num1 - num2}")
+
+elif choice == '3':
+    print(f"\nResult: {num1} * {num2} = {num1 * num2}")
+
+elif choice == '4':
+    if num2 != 0:
+        print(f"\nResult: {num1} / {num2} = {num1 / num2}")
+    else:
+        print("\nError: Division by zero is not allowed.")
+
+else:
+    print("\nInvalid input! Please enter a valid operation number (1/2/3/4).")
 
 """## EXERCISE 2: Parsing a speech
 
