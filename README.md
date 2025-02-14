@@ -96,7 +96,3 @@ These exchange rates are static and can be updated in `project.py`.
 ## Author
 - Gali Dauletkaliyev
 - Sw1ng7447
-
-## License
-This project is for educational purposes only. Feel free to modify and enhance it based on your needs.
-
