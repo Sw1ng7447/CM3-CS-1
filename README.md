@@ -2,7 +2,7 @@
 # Currency Converter
 
 ## Video Demo
-[Insert Video Link Here]
+https://youtu.be/OCfE0_cVj6A
 
 ## Description
 The **Currency Converter** is a Python-based console application that allows users to convert amounts between three different currencies: USD, EUR, and KZT. It uses predefined exchange rates to perform the conversions. The tool provides a simple way to convert currencies without relying on an internet connection, making it a reliable choice for basic conversions.
